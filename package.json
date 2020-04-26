@@ -1,0 +1,14 @@
+{
+  "name": "calculadora-aula",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/franciscojunior10/calculadora-aula.git",
+  "author": "Francisco Junior <franciscojn49@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
